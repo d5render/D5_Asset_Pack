@@ -4,5 +4,5 @@
 3. Close D5 Render
 4. Run the **D5_Asset_Pack_xxxxxxxx.exe** in the unzipped folder
 5. Make sure there is enough space with the installation folder
-*Note: The program will find the installation folder automatically*
+<br>*Note: The program will find the installation folder automatically*
 6. Check all assets in D5 Render without downloading
